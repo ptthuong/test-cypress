@@ -1,0 +1,12 @@
+{
+  "name": "test-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --e2e --headless"
+  },
+  "devDependencies": {
+    "cypress": "^10.6.0",
+    "typescript": "^4.6.4"
+  }
+}

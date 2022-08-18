@@ -1,0 +1,723 @@
+{
+    "data": {
+      "all_article": {
+        "meta": {
+          "total": 79
+        },
+        "items": [
+          {
+            "title": "Feeding fish: It’s not my uncle’s farm pond",
+            "termSelector": {
+              "primaryTerm": "/farm-life",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "Export sales: Corn notches new marketing-year high",
+            "termSelector": {
+              "primaryTerm": "/exports",
+              "secondaryTerm": [
+                "/crops",
+                "/market-news"
+              ]
+            }
+          },
+          {
+            "title": "Robot feeder caters to cattle",
+            "termSelector": {
+              "primaryTerm": "/beef",
+              "secondaryTerm": [
+                "/industry-news",
+                "/equipment"
+              ]
+            }
+          },
+          {
+            "title": "Grant opportunity for underserved farmers",
+            "termSelector": {
+              "primaryTerm": "/usda",
+              "secondaryTerm": [
+                "/farm-business"
+              ]
+            }
+          },
+          {
+            "title": "Win chance at free grain bin rescue tube",
+            "termSelector": {
+              "primaryTerm": "/equipment",
+              "secondaryTerm": [
+                "/industry-news"
+              ]
+            }
+          },
+          {
+            "title": "Corn prices poised to pounce",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/corn-prices",
+                "/marketing"
+              ]
+            }
+          },
+          {
+            "title": "Is it time for Congress to tackle cannabis?",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/crops"
+              ]
+            }
+          },
+          {
+            "title": "7 ag stories you might have missed",
+            "termSelector": {
+              "primaryTerm": "/farm-life",
+              "secondaryTerm": [
+                "/industry-news",
+                "/poultry",
+                "/beef",
+                "/crop-protection",
+                "/fertilizer"
+              ]
+            }
+          },
+          {
+            "title": "Sorghum an option on more irrigated acres",
+            "termSelector": {
+              "primaryTerm": "/sorghum",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "Selecting your next herd sire",
+            "termSelector": {
+              "primaryTerm": "/beef",
+              "secondaryTerm": [
+                "/livestock"
+              ]
+            }
+          },
+          {
+            "title": "Video series explores soil health in cotton fields",
+            "termSelector": {
+              "primaryTerm": "/cotton-prices",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "U.S. food, energy production growing in importance",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "Changing market picture brings cost focus",
+            "termSelector": {
+              "primaryTerm": "/marketing",
+              "secondaryTerm": [
+                "/beef"
+              ]
+            }
+          },
+          {
+            "title": "Answers to 4 questions on interest rate hikes",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/finance"
+              ]
+            }
+          },
+          {
+            "title": "Will Ukraine plant corn, export wheat this year?",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/crops",
+                "/corn-prices",
+                "/wheat-prices",
+                "/planting"
+              ]
+            }
+          },
+          {
+            "title": "5 tips to increase fertilizer efficiency, reduce costs",
+            "termSelector": {
+              "primaryTerm": "/fertilizer",
+              "secondaryTerm": [
+                "/farm-operations"
+              ]
+            }
+          },
+          {
+            "title": "Farming, policy just ‘part of the job’ for Heisdorffer",
+            "termSelector": {
+              "primaryTerm": "/farm-life",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "Pork industry launches disease monitoring system",
+            "termSelector": {
+              "primaryTerm": "/animal-health",
+              "secondaryTerm": [
+                "/marketing"
+              ]
+            }
+          },
+          {
+            "title": "Grain marketing strategies: Meet Aunt Tilly",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/marketing",
+                "/crops"
+              ]
+            }
+          },
+          {
+            "title": "How non-farm heirs juggle farm and life",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/land-management"
+              ]
+            }
+          },
+          {
+            "title": "3 margins every farmer should understand",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/marketing",
+                "/corn-prices"
+              ]
+            }
+          },
+          {
+            "title": "Prep for profit",
+            "termSelector": {
+              "primaryTerm": "/crops",
+              "secondaryTerm": [
+                "/marketing",
+                "/finance",
+                "/farm-operations"
+              ]
+            }
+          },
+          {
+            "title": "Vilsack speaks on trade, competition at Commodity Classic",
+            "termSelector": {
+              "primaryTerm": "/farm-policy",
+              "secondaryTerm": [
+                "/usda"
+              ]
+            }
+          },
+          {
+            "title": "The Tree Planters State",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/farm-life",
+                "/conservation"
+              ]
+            }
+          },
+          {
+            "title": "E15 limitations causing angst for farmers",
+            "termSelector": {
+              "primaryTerm": "/farm-policy",
+              "secondaryTerm": [
+                "/technology"
+              ]
+            }
+          },
+          {
+            "title": "10 ways FFA is growing tomorrow’s ag leaders",
+            "termSelector": {
+              "primaryTerm": "/farm-life",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "Cattlemen stay nimble to adapt",
+            "termSelector": {
+              "primaryTerm": "/beef",
+              "secondaryTerm": [
+                "/feed"
+              ]
+            }
+          },
+          {
+            "title": "4 tips for successful frost seeding",
+            "termSelector": {
+              "primaryTerm": "/cover-crops",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "Avian flu infects poultry in Illinois",
+            "termSelector": {
+              "primaryTerm": "/poultry",
+              "secondaryTerm": [
+                "/animal-health"
+              ]
+            }
+          },
+          {
+            "title": "Cattle contract library pilot in spending bill",
+            "termSelector": {
+              "primaryTerm": "/farm-policy",
+              "secondaryTerm": [
+                "/beef"
+              ]
+            }
+          },
+          {
+            "title": "March market madness actually makes sense",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/marketing",
+                "/crops"
+              ]
+            }
+          },
+          {
+            "title": "The great wheat supply debate",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/wheat-prices",
+                "/marketing"
+              ]
+            }
+          },
+          {
+            "title": "How to improve soil health (and why it matters)",
+            "termSelector": {
+              "primaryTerm": "/crops",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "Yuma firms ink deal to market irrigation tech",
+            "termSelector": {
+              "primaryTerm": "/water",
+              "secondaryTerm": [
+                "/industry-news"
+              ]
+            }
+          },
+          {
+            "title": "How to improve grain marketing",
+            "termSelector": {
+              "primaryTerm": "/marketing",
+              "secondaryTerm": [
+                "/farm-business"
+              ]
+            }
+          },
+          {
+            "title": "3 ideas to deal with setbacks during change",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/farm-operations"
+              ]
+            }
+          },
+          {
+            "title": "Unique fertilizer use boosts organic yields",
+            "termSelector": {
+              "primaryTerm": "/crops",
+              "secondaryTerm": [
+                "/fertilizer",
+                "/regulatory"
+              ]
+            }
+          },
+          {
+            "title": "Farmers need more trained firefighters for grain bin rescues",
+            "termSelector": {
+              "primaryTerm": "/grain-handling",
+              "secondaryTerm": [
+                "/safety"
+              ]
+            }
+          },
+          {
+            "title": "Direct marketing beef can add value to farm operation",
+            "termSelector": {
+              "primaryTerm": "/beef",
+              "secondaryTerm": [
+                "/industry-news",
+                "/crops"
+              ]
+            }
+          },
+          {
+            "title": "Selling the farm doesn’t have to be overwhelming",
+            "termSelector": {
+              "primaryTerm": "/land-management",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "Weekly grain movement: Corn, wheat trend moderately lower",
+            "termSelector": {
+              "primaryTerm": "/exports",
+              "secondaryTerm": [
+                "/usda",
+                "/market-news",
+                "/crops"
+              ]
+            }
+          },
+          {
+            "title": "It’s Springtime…Hopefully",
+            "termSelector": {
+              "primaryTerm": "/beef",
+              "secondaryTerm": [
+                "/farm-operations"
+              ]
+            }
+          },
+          {
+            "title": "Controlling seed bank key to slowing weed resistance",
+            "termSelector": {
+              "primaryTerm": "/crop-protection",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "Grow your own nitrogen with cover crops",
+            "termSelector": {
+              "primaryTerm": "/cover-crops",
+              "secondaryTerm": [
+                "/crops"
+              ]
+            }
+          },
+          {
+            "title": "When is the right time to castrate bulls?",
+            "termSelector": {
+              "primaryTerm": "/beef",
+              "secondaryTerm": [
+                "/farm-operations"
+              ]
+            }
+          },
+          {
+            "title": "Here we go again: Is ethanol climate-friendly?",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/corn-prices",
+                "/conservation",
+                "/technology"
+              ]
+            }
+          },
+          {
+            "title": "6 tips to prepare for severe weather season",
+            "termSelector": {
+              "primaryTerm": "/safety",
+              "secondaryTerm": [
+                "/weather"
+              ]
+            }
+          },
+          {
+            "title": "Healthy Farms, Healthy Communities workshop debuts",
+            "termSelector": {
+              "primaryTerm": "/soil-health",
+              "secondaryTerm": [
+                "/conservation",
+                "/regulatory"
+              ]
+            }
+          },
+          {
+            "title": "USDA leaders say opening up CRP unlikely",
+            "termSelector": {
+              "primaryTerm": "/farm-policy",
+              "secondaryTerm": [
+                "/usda",
+                "/conservation"
+              ]
+            }
+          },
+          {
+            "title": "Alasa Farms preserves barns, rescues animals",
+            "termSelector": {
+              "primaryTerm": "/farm-life",
+              "secondaryTerm": [
+                "/buildings"
+              ]
+            }
+          },
+          {
+            "title": "Follow best management practices when terminating annual ryegrass",
+            "termSelector": {
+              "primaryTerm": "/cover-crops",
+              "secondaryTerm": [
+                "/conservation"
+              ]
+            }
+          },
+          {
+            "title": "Corn yield contest winner talks 2022 crop management",
+            "termSelector": {
+              "primaryTerm": "/farm-operations",
+              "secondaryTerm": [
+                "/corn-prices"
+              ]
+            }
+          },
+          {
+            "title": "Are you serious about reducing fertilizer expenses?",
+            "termSelector": {
+              "primaryTerm": "/fertilizer",
+              "secondaryTerm": [
+                "/corn-prices"
+              ]
+            }
+          },
+          {
+            "title": "Avian influenza confirmed at commercial egg farm in Wisconsin",
+            "termSelector": {
+              "primaryTerm": "/poultry",
+              "secondaryTerm": [
+                "/animal-health"
+              ]
+            }
+          },
+          {
+            "title": "Minnesota on guard for HPAI",
+            "termSelector": {
+              "primaryTerm": "/poultry",
+              "secondaryTerm": [
+                "/animal-health",
+                "/livestock"
+              ]
+            }
+          },
+          {
+            "title": "Focus on ag economics",
+            "termSelector": {
+              "primaryTerm": "/farm-life",
+              "secondaryTerm": [
+                "/farm-business"
+              ]
+            }
+          },
+          {
+            "title": "FDA won’t do broad sampling of Salinas Valley greens",
+            "termSelector": {
+              "primaryTerm": "/vegetables",
+              "secondaryTerm": [
+                "/regulatory"
+              ]
+            }
+          },
+          {
+            "title": "How well will U.S. almonds weather current events?",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/tree-nuts"
+              ]
+            }
+          },
+          {
+            "title": "Rethink profitability",
+            "termSelector": {
+              "primaryTerm": "/crops",
+              "secondaryTerm": [
+                "/cover-crops"
+              ]
+            }
+          },
+          {
+            "title": "Solar power improves sustainability on family farm",
+            "termSelector": {
+              "primaryTerm": "/poultry",
+              "secondaryTerm": [
+                "/technology"
+              ]
+            }
+          },
+          {
+            "title": "Ready for March Madness?",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/farm-life"
+              ]
+            }
+          },
+          {
+            "title": "Can poultry litter offset rising fertilizer prices?",
+            "termSelector": {
+              "primaryTerm": "/fertilizer",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "Give focaccia a chance",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/farm-life"
+              ]
+            }
+          },
+          {
+            "title": "Huge price swings can amplify bad marketing decisions",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/marketing",
+                "/finance"
+              ]
+            }
+          },
+          {
+            "title": "Prairie Farmer celebrates Master Farmers today",
+            "termSelector": {
+              "primaryTerm": "/farm-life",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "3 ways to improve fuel efficiency in tractors",
+            "termSelector": {
+              "primaryTerm": "/tractors",
+              "secondaryTerm": [
+                "/farm-operations"
+              ]
+            }
+          },
+          {
+            "title": "One thing is certain: Crops must be planted",
+            "termSelector": {
+              "primaryTerm": "/farm-life",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "Russian invasion of Ukraine affects Kansas wheat farmers",
+            "termSelector": {
+              "primaryTerm": "/crops",
+              "secondaryTerm": [
+                "/wheat-prices"
+              ]
+            }
+          },
+          {
+            "title": "K-State uncovers new clues from wheat genome",
+            "termSelector": {
+              "primaryTerm": "/crops",
+              "secondaryTerm": [
+                "/wheat-prices",
+                "/livestock"
+              ]
+            }
+          },
+          {
+            "title": "‘Big tree hunt’ contests are on",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/farm-life"
+              ]
+            }
+          },
+          {
+            "title": "Congressional members call for WOTUS pause",
+            "termSelector": {
+              "primaryTerm": "/farm-policy",
+              "secondaryTerm": [
+                "/water"
+              ]
+            }
+          },
+          {
+            "title": "Online tool helps farmers check conditions before applying manure",
+            "termSelector": {
+              "primaryTerm": "/crops",
+              "secondaryTerm": [
+                "/manure"
+              ]
+            }
+          },
+          {
+            "title": "5 Trending headlines in the world",
+            "termSelector": {
+              "primaryTerm": "/beef",
+              "secondaryTerm": [
+                "/farm-operations",
+                "/livestock"
+              ]
+            }
+          },
+          {
+            "title": "Best practices for screening foreign H-2A applicants",
+            "termSelector": {
+              "primaryTerm": "/farm-business",
+              "secondaryTerm": [
+                "/farm-policy"
+              ]
+            }
+          },
+          {
+            "title": "‘Big tree hunt’ contests are on 0",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/farm-life"
+              ]
+            }
+          },
+          {
+            "title": "CEOs give updates at Commodity Classic",
+            "termSelector": {
+              "primaryTerm": "/farm-policy",
+              "secondaryTerm": [
+                "/trade"
+              ]
+            }
+          },
+          {
+            "title": "Illinois county fairs coming back",
+            "termSelector": {
+              "primaryTerm": "/farm-life",
+              "secondaryTerm": []
+            }
+          },
+          {
+            "title": "Test treatments with on-farm research network",
+            "termSelector": {
+              "primaryTerm": "/crops",
+              "secondaryTerm": [
+                "/farm-life"
+              ]
+            }
+          },
+          {
+            "title": "How one man became a farmer",
+            "termSelector": {
+              "primaryTerm": "/commentary",
+              "secondaryTerm": [
+                "/farm-life"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
